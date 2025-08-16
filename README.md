@@ -4,7 +4,9 @@ A simple web application that visually represents the pH scale from 1 (Very Acid
 
 ## Demo
 
-View the live site: [https://ph-scale-577b5.web.app](https://ph-scale-577b5.web.app)
+View the live site: 
+- [https://ph-scale-577b5.web.app](https://ph-scale-577b5.web.app)
+- [https://rohanraaj2.github.io/pH-Scale/](https://rohanraaj2.github.io/pH-Scale/)
 
 ## Features
 
